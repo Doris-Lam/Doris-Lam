@@ -2,7 +2,7 @@
 
 🏫 I'm a **Computer Engineering** student @ UWaterloo 
 
-## 📫 Find me Here:
+## 📫 Find Me Here:
 - 📧 **Email**: [d28lam@uwaterloo.com]
 - 💼 **LinkedIn**: [https://www.linkedin.com/in/dorislam23/]
 - 👾 **Devpost**: [https://devpost.com/Doryimoo]
