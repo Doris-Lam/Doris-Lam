@@ -1,6 +1,6 @@
 ## Hi, I'm Doris! 🙂👋
 
-🏫 I'm a **Computer Engineering** student @ UWaterloo 
+🏫 **Computer Engineering** student @ UWaterloo 
 
 ## 📫 Find Me Here:
 - 📧 **Email**: [d28lam@uwaterloo.com]
