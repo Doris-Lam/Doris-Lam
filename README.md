@@ -4,6 +4,6 @@
 
 ## 📫 Find Me Here:
 - 🤖 **Website**: [https://doris-lam.github.io]
-- 💼 **LinkedIn**: [https://www.linkedin.com/in/dorislam23/]
+- 💼 **LinkedIn**: [https://www.linkedin.com/in/dorislam23]
 - 👾 **Devpost**: [https://devpost.com/Doryimoo]
 
