@@ -3,8 +3,6 @@
 **Computer Engineering** student @ UWaterloo 
 
 ## Find Me Here:
-- 📫 **Email**: [doris.lam@uwaterloo.ca]
-- 🤖 **Website**: [https://dorisslam.ca]
-- 💼 **LinkedIn**: [https://www.linkedin.com/in/dorislam23]
-- 👾 **Devpost**: [https://devpost.com/Doryimoo]
-
+- **Email**: [doris.lam@uwaterloo.ca]
+- **Website**: [https://dorisslam.ca]
+- **LinkedIn**: [https://www.linkedin.com/in/dorislam23]
