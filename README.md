@@ -7,8 +7,8 @@
                |   Computer Engineering @ UWaterloo    |  |
                |                                       |  |
                |   email: doris.lam@uwaterloo.ca       |  |
-               |   web  : dorisslam.ca                 |  |
-               |   link : linkedin.com/in/dorislam23   |  |
+               |   website: dorisslam.ca               |  |
+               |   linkedin.com/in/dorislam23          |  |
                |                                       |  |
                |_______________________________________|  |
                 \_______________________________________\_/
