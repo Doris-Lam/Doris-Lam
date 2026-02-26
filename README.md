@@ -1,8 +1,20 @@
-## Hi, I'm Doris! 🙂👋
-
-**Computer Engineering** student @ UWaterloo 
-
-## Find Me Here:
-- **Email**: [doris.lam@uwaterloo.ca]
-- **Website**: [https://dorisslam.ca]
-- **LinkedIn**: [https://www.linkedin.com/in/dorislam23]
+                 _________________________________________
+                /                                       / |
+               /_______________________________________/  |
+               |                                       |  |
+               |                                       |  |
+               |   Doris :)                            |  |
+               |   Computer Engineering @ UWaterloo    |  |
+               |                                       |  |
+               |   email: doris.lam@uwaterloo.ca       |  |
+               |   web  : dorisslam.ca                 |  |
+               |   link : linkedin.com/in/dorislam23   |  |
+               |                                       |  |
+               |_______________________________________|  |
+                \_______________________________________\_/
+                                \   ___   /
+                                 \ (•‿•) /
+                                  /|   |\
+                                 /_|___|_\
+                                   /    \
+                                  /      \
